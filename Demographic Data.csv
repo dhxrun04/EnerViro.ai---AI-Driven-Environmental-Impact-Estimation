@@ -1,0 +1,267 @@
+State,City,Latitude,Longitude,Population,Climate Zone,Energy Consumption (kWh/capita),Age Category Most Affected,BOD (mg/L),COD (mg/L)
+Andaman and Nicobar Islands,Port Blair,11.6236,92.75,100000,Tropical Wet,450,0-14 years,13,60
+Andhra Pradesh,Adoni,15.6312,77.2751,150000,Semi-Arid,470,15-24 years,12,55
+Andhra Pradesh,Amaravati,16.5102,80.6,200000,Semi-Arid,480,25-44 years,14,60
+Andhra Pradesh,Anantapur,14.6818,77.5916,170000,Semi-Arid,490,45-64 years,13,65
+Andhra Pradesh,Chandragiri,13.2276,79.3736,60000,Semi-Arid,460,65+ years,12,60
+Andhra Pradesh,Chittoor,13.2284,79.1547,150000,Semi-Arid,470,0-14 years,14,65
+Andhra Pradesh,Dowlaiswaram,16.9241,81.7862,90000,Semi-Arid,480,15-24 years,13,55
+Andhra Pradesh,Eluru,16.7095,81.0946,150000,Semi-Arid,470,25-44 years,12,60
+Andhra Pradesh,Guntur,16.3067,80.4366,300000,Semi-Arid,490,45-64 years,14,65
+Andhra Pradesh,Kadapa,14.4784,78.786,200000,Semi-Arid,480,65+ years,13,60
+Andhra Pradesh,Kakinada,16.93,82.2418,150000,Semi-Arid,470,0-14 years,15,60
+Andhra Pradesh,Kurnool,15.826,78.0384,250000,Semi-Arid,490,15-24 years,14,65
+Andhra Pradesh,Machilipatnam,16.184,81.1392,100000,Semi-Arid,470,25-44 years,13,55
+Andhra Pradesh,Nagarjunakoṇḍa,16.5399,80.6289,50000,Semi-Arid,480,45-64 years,12,60
+Andhra Pradesh,Rajahmundry,17.0033,81.77,300000,Semi-Arid,490,65+ years,14,65
+Andhra Pradesh,Srikakulam,18.3026,83.893,150000,Semi-Arid,470,0-14 years,13,60
+Andhra Pradesh,Tirupati,13.6288,79.4192,200000,Semi-Arid,480,15-24 years,14,65
+Andhra Pradesh,Vijayawada,16.5062,80.648,200000,Semi-Arid,490,25-44 years,12,55
+Andhra Pradesh,Visakhapatnam,17.6868,83.2185,2091000,Semi-Arid,500,45-64 years,14,65
+Andhra Pradesh,Vizianagaram,17.6869,83.3942,150000,Semi-Arid,480,65+ years,13,60
+Andhra Pradesh,Yemmiganur,15.8033,77.57,90000,Semi-Arid,470,0-14 years,14,55
+Arunachal Pradesh,Itanagar,27.0844,93.605,80000,Tropical Wet,460,15-24 years,13,50
+Assam,Dhuburi,26.0104,89.9786,50000,Tropical Wet,470,25-44 years,14,55
+Assam,Dibrugarh,27.4728,94.9113,200000,Tropical Wet,480,45-64 years,15,60
+Assam,Dispur,26.1445,91.7362,300000,Tropical Wet,470,65+ years,12,55
+Assam,Guwahati,26.1445,91.7362,1400000,Tropical Wet,490,0-14 years,14,60
+Assam,Jorhat,26.7499,94.1926,100000,Tropical Wet,480,15-24 years,13,55
+Assam,Nagaon,26.3461,92.7552,120000,Tropical Wet,470,25-44 years,14,60
+Assam,Sivasagar,26.9851,94.6141,60000,Tropical Wet,460,45-64 years,12,50
+Assam,Silchar,24.8083,92.7746,100000,Tropical Wet,470,65+ years,13,55
+Assam,Tezpur,26.6393,92.7858,70000,Tropical Wet,480,0-14 years,14,60
+Assam,Tinsukia,27.49,95.3474,120000,Tropical Wet,470,15-24 years,13,55
+Bihar,Ara,25.5632,84.6544,150000,Humid Subtropical,470,25-44 years,12,50
+Bihar,Barauni,25.4458,86.1015,100000,Humid Subtropical,460,45-64 years,13,55
+Bihar,Begusarai,25.414,86.1486,100000,Humid Subtropical,470,65+ years,14,60
+Bihar,Bettiah,27.1161,84.8288,50000,Humid Subtropical,460,0-14 years,13,55
+Bihar,Bhagalpur,25.24,87.07,270000,Humid Subtropical,480,15-24 years,12,50
+Bihar,Bihar Sharif,25.24,85.5546,100000,Humid Subtropical,470,25-44 years,13,55
+Bihar,Bodh Gaya,24.6951,84.9915,40000,Humid Subtropical,460,45-64 years,12,50
+Bihar,Buxar,25.5588,84.0828,100000,Humid Subtropical,470,65+ years,14,60
+Bihar,Chapra,25.7779,84.7431,150000,Humid Subtropical,460,0-14 years,13,55
+Bihar,Darbhanga,26.1291,85.908,150000,Humid Subtropical,470,15-24 years,12,50
+Bihar,Dehri,24.91,84.2361,70000,Humid Subtropical,460,25-44 years,13,55
+Bihar,Dinapur Nizamat,25.6347,85.1168,50000,Humid Subtropical,470,45-64 years,12,50
+Bihar,Gaya,24.7964,84.9985,250000,Humid Subtropical,460,65+ years,14,60
+Bihar,Hajipur,25.6841,85.2072,150000,Humid Subtropical,470,0-14 years,13,55
+Bihar,Jamalpur,25.3986,86.6,60000,Humid Subtropical,460,15-24 years,12,50
+Bihar,Katihar,25.5305,87.5811,80000,Humid Subtropical,470,25-44 years,13,55
+Bihar,Madhubani,26.373,86.0657,200000,Humid Subtropical,460,45-64 years,12,50
+Bihar,Motihari,26.6528,84.9166,120000,Humid Subtropical,470,65+ years,13,55
+Bihar,Munger,25.3974,85.9125,80000,Humid Subtropical,460,0-14 years,12,50
+Bihar,Muzaffarpur,26.1191,85.3584,300000,Humid Subtropical,470,15-24 years,13,55
+Bihar,Patna,25.5941,85.1376,1700000,Humid Subtropical,460,25-44 years,12,50
+Bihar,Purnia,25.7786,87.4704,100000,Humid Subtropical,470,45-64 years,13,55
+Bihar,Pusa,25.7833,85.0333,30000,Humid Subtropical,460,65+ years,12,50
+Bihar,Saharsa,25.8604,86.6188,60000,Humid Subtropical,470,0-14 years,13,55
+Bihar,Samastipur,25.869,85.7833,100000,Humid Subtropical,460,15-24 years,12,50
+Bihar,Sasaram,24.919,84.0626,70000,Humid Subtropical,470,25-44 years,13,55
+Bihar,Sitamarhi,26.5833,85.6167,70000,Humid Subtropical,460,45-64 years,12,50
+Bihar,Siwan,26.2333,84.3333,100000,Humid Subtropical,470,65+ years,13,55
+Chandigarh,Chandigarh,30.7333,76.7794,1000000,Humid Subtropical,500,0-14 years,12,60
+Chhattisgarh,Ambikapur,23.1054,82.4288,50000,Subtropical Highland,470,15-24 years,13,55
+Chhattisgarh,Bhilai,21.2087,81.379,300000,Subtropical Highland,480,25-44 years,14,60
+Chhattisgarh,Bilaspur,22.0796,82.1485,150000,Subtropical Highland,470,45-64 years,13,55
+Chhattisgarh,Dhamtari,20.6031,81.5308,50000,Subtropical Highland,460,65+ years,12,50
+Chhattisgarh,Durg,20.2911,81.2905,100000,Subtropical Highland,470,0-14 years,13,55
+Chhattisgarh,Jagdalpur,19.079,82.059,40000,Subtropical Highland,460,15-24 years,12,50
+Chhattisgarh,Raipur,21.2514,81.6296,1400000,Subtropical Highland,490,25-44 years,13,55
+Chhattisgarh,Rajnandgaon,21.0973,81.0385,100000,Subtropical Highland,470,45-64 years,12,50
+Dadra and Nagar Haveli and Daman and Diu,Daman,20.4259,72.8311,50000,Tropical Wet,460,65+ years,13,55
+Dadra and Nagar Haveli and Daman and Diu,Diu,20.7064,70.9934,20000,Tropical Wet,470,0-14 years,12,50
+Dadra and Nagar Haveli and Daman and Diu,Silvassa,20.2763,73.0164,30000,Tropical Wet,460,15-24 years,13,55
+Delhi,Delhi,28.6139,77.209,19000000,Humid Subtropical,600,25-44 years,12,60
+Delhi,New Delhi,28.6139,77.209,3000000,Humid Subtropical,620,45-64 years,14,65
+Goa,Madgaon,15.2993,74.076,50000,Tropical Wet,460,65+ years,13,55
+Goa,Panaji,15.4909,73.8278,114000,Tropical Wet,470,0-14 years,12,50
+Gujarat,Ahmadabad,23.0225,72.5714,9000000,Arid,500,15-24 years,13,55
+Gujarat,Amreli,21.6,84.89,100000,Arid,470,25-44 years,14,60
+Gujarat,Bharuch,21.7,72.9833,150000,Arid,480,45-64 years,13,55
+Gujarat,Bhavnagar,21.76,72.15,200000,Arid,470,65+ years,12,50
+Gujarat,Bhuj,23.25,69.67,100000,Arid,460,0-14 years,13,55
+Gujarat,Dwarka,22.24,68.97,50000,Arid,470,15-24 years,12,50
+Gujarat,Gandhinagar,23.2167,72.6667,200000,Arid,480,25-44 years,13,55
+Gujarat,Godhra,22.77,73.62,80000,Arid,470,45-64 years,14,60
+Gujarat,Jamnagar,22.47,70.06,150000,Arid,480,65+ years,12,55
+Gujarat,Junagadh,21.52,70.467,100000,Arid,470,0-14 years,13,50
+Gujarat,Kandla,23,70.2167,30000,Arid,460,15-24 years,12,50
+Gujarat,Khambhat,22.5,72.45,50000,Arid,470,25-44 years,13,55
+Gujarat,Kheda,22.8,72.65,70000,Arid,480,45-64 years,12,50
+Gujarat,Mahesana,23.6,72.4,100000,Arid,470,65+ years,13,55
+Gujarat,Morbi,22.85,70.7833,60000,Arid,460,0-14 years,14,60
+Gujarat,Nadiad,22.7,72.7833,80000,Arid,470,15-24 years,12,55
+Gujarat,Navsari,20.95,72.9167,70000,Arid,460,25-44 years,13,50
+Gujarat,Okha,23,68.9833,20000,Arid,470,45-64 years,12,55
+Gujarat,Palanpur,24.17,72.4,60000,Arid,460,65+ years,13,60
+Gujarat,Patan,24.17,72.12,70000,Arid,470,0-14 years,12,50
+Gujarat,Porbandar,21.64,69.61,100000,Arid,460,15-24 years,13,55
+Gujarat,Rajkot,22.29,70.79,1500000,Arid,480,25-44 years,14,60
+Gujarat,Surat,21.17,72.83,5000000,Arid,490,45-64 years,12,55
+Gujarat,Surendranagar,22.72,71.62,70000,Arid,470,65+ years,13,50
+Gujarat,Valsad,20.6333,72.9667,100000,Arid,460,0-14 years,12,55
+Gujarat,Veraval,20.9,70.3667,50000,Arid,470,15-24 years,13,60
+Haryana,Ambala,30.3786,76.7822,150000,Humid Subtropical,470,25-44 years,12,55
+Haryana,Bhiwani,28.7827,75.545,150000,Humid Subtropical,460,45-64 years,13,60
+Haryana,Chandigarh,30.7333,76.7794,1000000,Humid Subtropical,500,65+ years,14,65
+Haryana,Faridabad,28.4082,77.3178,1500000,Humid Subtropical,490,0-14 years,12,50
+Haryana,Firozpur Jhirka,28.0446,76.6094,50000,Humid Subtropical,470,15-24 years,13,55
+Haryana,Gurugram,28.4595,77.0266,1000000,Humid Subtropical,510,25-44 years,12,60
+Haryana,Hansi,29.1391,76.7675,70000,Humid Subtropical,460,45-64 years,13,55
+Haryana,Hisar,29.15,75.75,300000,Humid Subtropical,470,65+ years,14,60
+Haryana,Jind,29.3167,76.3167,100000,Humid Subtropical,460,0-14 years,13,55
+Haryana,Kaithal,29.785,76.4731,60000,Humid Subtropical,470,15-24 years,12,50
+Haryana,Karnal,29.6833,76.9833,200000,Humid Subtropical,460,25-44 years,13,55
+Haryana,Kurukshetra,29.96,76.85,50000,Humid Subtropical,470,45-64 years,12,50
+Haryana,Panipat,29.3918,76.9637,100000,Humid Subtropical,460,65+ years,13,60
+Haryana,Pehowa,29.7886,76.5624,30000,Humid Subtropical,470,0-14 years,12,55
+Haryana,Rewari,28.212,76.6267,60000,Humid Subtropical,460,15-24 years,13,60
+Haryana,Rohtak,28.8942,76.6101,100000,Humid Subtropical,470,25-44 years,14,65
+Haryana,Sirsa,29.5351,75.0174,100000,Humid Subtropical,460,45-64 years,12,55
+Haryana,Sonipat,28.9934,77.059,50000,Humid Subtropical,470,65+ years,13,60
+Himachal Pradesh,Bilaspur,31.3671,76.7832,50000,Humid Subtropical,460,0-14 years,12,50
+Himachal Pradesh,Chamba,32.5535,76.1324,25000,Humid Subtropical,470,15-24 years,13,55
+Himachal Pradesh,Dalhousie,32.577,75.976,20000,Humid Subtropical,460,25-44 years,12,50
+Himachal Pradesh,Dharmshala,32.2206,76.337,60000,Humid Subtropical,470,45-64 years,13,55
+Himachal Pradesh,Hamirpur,31.7153,76.629,30000,Humid Subtropical,460,65+ years,12,50
+Himachal Pradesh,Kangra,32.081,76.2637,70000,Humid Subtropical,470,0-14 years,13,55
+Himachal Pradesh,Kullu,32.138,77.126,50000,Humid Subtropical,460,15-24 years,12,50
+Himachal Pradesh,Mandi,31.7091,76.9305,60000,Humid Subtropical,470,25-44 years,13,55
+Himachal Pradesh,Nahan,30.3368,77.0894,30000,Humid Subtropical,460,45-64 years,12,50
+Himachal Pradesh,Shimla,31.1048,77.1747,100000,Humid Subtropical,470,65+ years,13,55
+Himachal Pradesh,Una,31.7366,76.2994,20000,Humid Subtropical,460,0-14 years,12,50
+Jammu and Kashmir,Anantnag,33.72,75.02,50000,Humid Subtropical,460,15-24 years,13,55
+Jammu and Kashmir,Baramula,34.2,74.36,30000,Humid Subtropical,470,25-44 years,12,50
+Jammu and Kashmir,Doda,33.13,75.58,20000,Humid Subtropical,460,45-64 years,13,55
+Jammu and Kashmir,Gulmarg,34.066,73.75,15000,Humid Subtropical,470,65+ years,12,50
+Jammu and Kashmir,Jammu,32.7333,74.8667,500000,Humid Subtropical,470,0-14 years,13,55
+Jammu and Kashmir,Kathua,32.4,75.55,20000,Humid Subtropical,460,15-24 years,12,50
+Jammu and Kashmir,Punch,33.72,75.15,15000,Humid Subtropical,470,25-44 years,13,55
+Jammu and Kashmir,Rajouri,33.37,73.38,25000,Humid Subtropical,460,45-64 years,12,50
+Jammu and Kashmir,Srinagar,34.0836,74.7973,800000,Humid Subtropical,480,65+ years,13,55
+Jammu and Kashmir,Udhampur,32.93,75.13,50000,Humid Subtropical,470,0-14 years,12,50
+Jharkhand,Bokaro,23.8,86.15,500000,Humid Subtropical,470,15-24 years,12,50
+Jharkhand,Chaibasa,22.39,85.6,25000,Humid Subtropical,460,25-44 years,13,55
+Jharkhand,Deoghar,24.4833,86.6967,50000,Humid Subtropical,470,45-64 years,12,50
+Jharkhand,Dhanbad,23.7957,86.4304,600000,Humid Subtropical,470,65+ years,13,55
+Jharkhand,Dumka,24.25,87.05,30000,Humid Subtropical,460,0-14 years,12,50
+Jharkhand,Giridih,24.1833,86.3,40000,Humid Subtropical,470,15-24 years,13,55
+Jharkhand,Hazaribag,23.9975,85.5881,40000,Humid Subtropical,460,25-44 years,12,50
+Jharkhand,Jamshedpur,22.8,86.1833,700000,Humid Subtropical,470,45-64 years,13,55
+Jharkhand,Jharia,23.75,86.3,50000,Humid Subtropical,460,65+ years,12,50
+Jharkhand,Rajmahal,24.3833,87.5,15000,Humid Subtropical,470,0-14 years,13,55
+Jharkhand,Ranchi,23.3558,85.3348,1200000,Humid Subtropical,480,15-24 years,12,60
+Jharkhand,Saraikela,22.6342,85.8215,50000,Humid Subtropical,470,25-44 years,13,55
+Karnataka,Badami,15.9118,75.5684,30000,Humid Tropical,460,45-64 years,13,55
+Karnataka,Ballari,15.1398,65.2152,100000,Humid Tropical,470,65+ years,12,50
+Karnataka,Bengaluru,12.9716,77.5946,12000000,Humid Tropical,500,0-14 years,14,60
+Karnataka,Belagavi,15.8489,74.5016,500000,Humid Tropical,470,15-24 years,13,55
+Karnataka,Bhadravati,14.2225,75.5775,30000,Humid Tropical,460,25-44 years,12,50
+Karnataka,Bidar,17.914,77.517,40000,Humid Tropical,470,45-64 years,13,55
+Karnataka,Chikkamagaluru,13.3125,75.7735,100000,Humid Tropical,460,65+ years,12,50
+Karnataka,Chitradurga,14.2361,76.958,70000,Humid Tropical,470,0-14 years,13,55
+Karnataka,Davangere,14.4675,75.9204,100000,Humid Tropical,460,15-24 years,12,50
+Karnataka,Halebid,14.2911,75.8183,20000,Humid Tropical,470,25-44 years,13,55
+Karnataka,Hassan,13,76.0833,50000,Humid Tropical,460,45-64 years,12,50
+Karnataka,Hubballi-Dharwad,15.3683,75.1273,1000000,Humid Tropical,470,65+ years,13,55
+Karnataka,Kalaburagi,17.1474,76.8479,60000,Humid Tropical,460,0-14 years,12,50
+Karnataka,Kolar,13.1356,77.2769,60000,Humid Tropical,470,15-24 years,13,55
+Karnataka,Madikeri,12.4238,75.5904,25000,Humid Tropical,460,25-44 years,12,50
+Karnataka,Mandya,12.5204,76.8936,50000,Humid Tropical,460,45-64 years,13,55
+Karnataka,Mysuru,12.2958,76.6394,900000,Humid Tropical,470,65+ years,12,50
+Karnataka,Raichur,16.2,77.5833,100000,Humid Tropical,460,0-14 years,13,55
+Karnataka,Shivamogga,13.9302,75.5604,200000,Humid Tropical,470,15-24 years,12,50
+Karnataka,Tumakuru,13.339,77.1012,100000,Humid Tropical,460,25-44 years,13,55
+Karnataka,Udupi,13.3414,74.7963,50000,Humid Tropical,470,45-64 years,12,50
+Karnataka,Vijayapura,16.83,75.71,60000,Humid Tropical,460,65+ years,13,55
+Karnataka,Virajpet,12.1457,75.2487,20000,Humid Tropical,470,0-14 years,12,50
+Karnataka,Yadgir,16.7311,77.1564,30000,Humid Tropical,460,15-24 years,13,55
+Kerala,Alappuzha,9.498,76.339,300000,Humid Tropical,460,25-44 years,13,55
+Kerala,Ernakulam,9.981,76.2859,2000000,Humid Tropical,470,45-64 years,12,50
+Kerala,Idukki,9.9278,77.0652,100000,Humid Tropical,460,65+ years,13,55
+Kerala,Kannur,11.8711,75.3704,200000,Humid Tropical,470,0-14 years,12,50
+Kerala,Kochi,9.9312,76.2673,600000,Humid Tropical,470,15-24 years,13,55
+Kerala,Kottayam,9.5916,76.5226,100000,Humid Tropical,460,25-44 years,12,50
+Kerala,Kozhikode,11.2588,75.7804,600000,Humid Tropical,470,45-64 years,13,55
+Kerala,Malappuram,11.0847,76.3898,500000,Humid Tropical,460,65+ years,12,50
+Kerala,Palakkad,10.776,76.6546,300000,Humid Tropical,470,0-14 years,13,55
+Kerala,Thiruvananthapuram,8.5241,76.9366,800000,Humid Tropical,460,15-24 years,12,50
+Kerala,Wayanad,11.6828,75.2147,100000,Humid Tropical,470,25-44 years,13,55
+Madhya Pradesh,Bhopal,23.2599,77.4126,2000000,Humid Subtropical,480,0-14 years,12,55
+Madhya Pradesh,Gwalior,26.2183,78.1828,1500000,Humid Subtropical,470,15-24 years,13,55
+Madhya Pradesh,Indore,22.7177,75.8577,3000000,Humid Subtropical,490,25-44 years,12,60
+Madhya Pradesh,Katni,23.8317,80.4458,100000,Humid Subtropical,470,45-64 years,13,55
+Madhya Pradesh,Rewa,24.5353,81.2995,50000,Humid Subtropical,460,65+ years,12,50
+Madhya Pradesh,Satna,24.5803,80.8284,50000,Humid Subtropical,470,0-14 years,13,55
+Madhya Pradesh,Ujjain,23.179,75.7741,100000,Humid Subtropical,470,15-24 years,12,50
+Maharashtra,Aurangabad,19.8762,75.3433,1200000,Arid,480,15-24 years,12,55
+Maharashtra,Bhusawal,21.0543,75.798,50000,Arid,470,25-44 years,13,55
+Maharashtra,Kolhapur,16.7052,74.2434,600000,Arid,470,45-64 years,12,50
+Maharashtra,Latur,18.7882,76.5833,150000,Arid,470,65+ years,13,55
+Maharashtra,Miraj,16.8277,74.5801,50000,Arid,470,0-14 years,12,50
+Maharashtra,Nashik,20.0119,73.79,2000000,Arid,480,15-24 years,13,55
+Maharashtra,Panvel,19.033,73.099,50000,Arid,460,25-44 years,12,50
+Maharashtra,Pune,18.5204,73.8567,3000000,Arid,490,45-64 years,13,55
+Maharashtra,Solapur,17.6868,75.006,600000,Arid,470,65+ years,12,50
+Maharashtra,Thane,19.2184,72.978,2000000,Arid,480,0-14 years,13,55
+Maharashtra,Ulhasnagar,19.233,73.133,50000,Arid,470,15-24 years,12,50
+Maharashtra,Washim,20.13,77.2,50000,Arid,460,25-44 years,13,55
+Maharashtra,Yavatmal,20.3982,78.1324,30000,Arid,470,45-64 years,12,50
+Manipur,Imphal,24.817,93.9368,200000,Humid Subtropical,470,15-24 years,13,55
+Meghalaya,Shillong,25.5788,91.8933,150000,Humid Subtropical,460,25-44 years,13,55
+Mizoram,Aizawl,23.1645,92.9376,100000,Humid Subtropical,470,45-64 years,13,55
+Nagaland,Kohima,25.6731,94.1193,50000,Humid Subtropical,460,65+ years,13,50
+Odisha,Bhubaneswar,20.2961,85.8245,1100000,Humid Tropical,470,0-14 years,12,50
+Odisha,Cuttack,20.4625,85.8828,600000,Humid Tropical,470,15-24 years,13,55
+Odisha,Rourkela,22.2626,84.8215,250000,Humid Tropical,470,25-44 years,12,55
+Puducherry,Puducherry,11.9416,79.8083,500000,Humid Tropical,470,45-64 years,13,55
+Punjab,Amritsar,31.634,74.8723,1500000,Humid Subtropical,460,65+ years,12,50
+Punjab,Jalandhar,31.326,75.5762,1000000,Humid Subtropical,470,0-14 years,13,55
+Rajasthan,Ajmer,26.4533,74.6385,60000,Arid,470,15-24 years,13,55
+Rajasthan,Alwar,27.3938,76.6141,150000,Arid,460,25-44 years,12,50
+Rajasthan,Bhilwara,25.3378,74.634,100000,Arid,470,45-64 years,13,55
+Rajasthan,Jaipur,26.9124,75.7873,3500000,Arid,480,65+ years,12,50
+Rajasthan,Jodhpur,26.2389,73.0243,1000000,Arid,470,0-14 years,13,55
+Rajasthan,Kota,25.1808,70.2186,1000000,Arid,470,15-24 years,12,50
+Rajasthan,Pushkar,26.4898,74.5554,15000,Arid,460,25-44 years,13,55
+Rajasthan, Udaipur,24.571,73.6915,500000,Arid,470,45-64 years,12,50
+Sikkim,Gangtok,27.3314,88.6139,100000,Humid Subtropical,470,65+ years,13,55
+Tamil Nadu,Chennai,13.0827,80.2707,9000000,Humid Tropical,480,0-14 years,13,55
+Tamil Nadu,Coimbatore,11.0168,76.9558,1500000,Humid Tropical,470,15-24 years,12,50
+Tamil Nadu, Madurai,9.9194,78.1198,300000,Humid Tropical,470,25-44 years,13,55
+Tamil Nadu,Tiruchirappalli,10.7905,78.7047,600000,Humid Tropical,460,45-64 years,13,50
+Telangana,Hyderabad,17.385,78.4867,12000000,Humid Tropical,500,0-14 years,14,60
+Telangana,Nizamabad,17.7333,78.8667,50000,Humid Tropical,460,15-24 years,13,55
+Tripura,Agartala,23.8315,91.2867,150000,Humid Subtropical,460,25-44 years,12,55
+Uttar Pradesh,Agra,27.1767,78.0081,2000000,Humid Subtropical,470,45-64 years,13,55
+Uttar Pradesh,Allahabad,25.4358,81.8463,1500000,Humid Subtropical,470,65+ years,12,50
+Uttar Pradesh,Gorakhpur,26.7606,83.3732,800000,Humid Subtropical,460,0-14 years,12,55
+Uttar Pradesh,Kanpur,26.4499,80.3319,3000000,Humid Subtropical,470,15-24 years,13,50
+Uttar Pradesh,Varanasi,25.3176,82.9739,1500000,Humid Subtropical,470,25-44 years,13,55
+West Bengal,Kolkata,22.5726,88.3639,14000000,Humid Subtropical,490,0-14 years,13,55
+West Bengal,Siliguri,26.7274,88.6115,200000,Humid Subtropical,470,15-24 years,12,50
+Tamil Nadu,Chennai,13.0827,80.2707,9000000,Humid Tropical,480,0-14 years,13,55
+Tamil Nadu,Coimbatore,11.0168,76.9558,1500000,Humid Tropical,470,15-24 years,12,50
+Tamil Nadu,Madurai,9.9194,78.1198,300000,Humid Tropical,470,25-44 years,13,55
+Tamil Nadu,Tiruchirappalli,10.7905,78.7047,600000,Humid Tropical,460,45-64 years,13,50
+Tamil Nadu,Salem,11.6643,78.146,350000,Humid Tropical,470,65+ years,12,55
+Tamil Nadu,Vellore,12.9165,79.132,300000,Humid Tropical,460,0-14 years,13,50
+Tamil Nadu,Tirunelveli,8.7106,77.7594,200000,Humid Tropical,470,15-24 years,12,55
+Tamil Nadu,Cuddalore,11.7401,79.761,100000,Humid Tropical,460,25-44 years,13,50
+Tamil Nadu,Kanchipuram,12.8312,79.7085,150000,Humid Tropical,470,45-64 years,13,55
+Tamil Nadu,Nagercoil,8.7605,77.4337,200000,Humid Tropical,460,65+ years,12,50
+Tamil Nadu,Pudukkottai,10.3607,78.8256,100000,Humid Tropical,470,0-14 years,13,55
+Tamil Nadu,Dharmapuri,12.11,78.5938,80000,Humid Tropical,460,15-24 years,12,50
+Tamil Nadu,Thoothukudi,8.8,78.2,150000,Humid Tropical,470,25-44 years,13,55
+Tamil Nadu,Udhagamandalam,11.4084,76.6969,80000,Humid Tropical,470,45-64 years,12,50
+Tamil Nadu,Chidambaram,11.3947,79.6888,100000,Humid Tropical,460,65+ years,13,55
+Tamil Nadu,Chengalpattu,12.8371,79.703,60000,Humid Tropical,470,0-14 years,12,50
+Tamil Nadu,Arakkonam,12.95,79.7,60000,Humid Tropical,460,15-24 years,13,55
+Tamil Nadu,Erode,11.3411,77.711,250000,Humid Tropical,470,25-44 years,12,50
+Tamil Nadu,Karur,10.949,78.0763,100000,Humid Tropical,460,45-64 years,13,55
+Tamil Nadu,Tiruppur,11.115,77.522,600000,Humid Tropical,470,65+ years,12,50
+Tamil Nadu,Vaniyambadi,12.7474,78.7901,50000,Humid Tropical,460,0-14 years,13,55
+Tamil Nadu,Villupuram,11.9418,79.5404,100000,Humid Tropical,470,15-24 years,12,50
+Tamil Nadu,Pudukottai,10.3607,78.8256,100000,Humid Tropical,460,25-44 years,13,55
+Tamil Nadu,Thanjavur,10.787,79.1391,150000,Humid Tropical,470,45-64 years,12,50
+Tamil Nadu,Kumbakonam,10.967,79.355,100000,Humid Tropical,460,65+ years,13,55
